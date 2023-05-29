@@ -1,5 +1,6 @@
 h2 {
     width: 100%;
+    letter-spacing: -0.1em;
     line-height: 100%;
     font-family: 
         'Arial Narrow',
@@ -7,7 +8,7 @@ h2 {
         'BIZ UDPGothic',
         'Hiragino Sans',
         sans-serif;
-    color: rgb(64, 64, 64);
+    color: rgb(128, 128, 128);
 }
     
 #bookmarks {
