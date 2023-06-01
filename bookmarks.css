@@ -24,7 +24,7 @@ h2 {
         sans-serif;
 }
 a[href^="http://"] {
-    color: rgb(225, 200, 200);
+    color: rgb(225, 180, 180);
 }
 a[href^="https://"] {
     color: rgb(225, 225, 225);
