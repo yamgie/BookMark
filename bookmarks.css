@@ -23,7 +23,10 @@ h2 {
         'Hiragino Sans',
         sans-serif;
 }
-a {
+a[href^="http://"] {
+    color: rgb(225, 200, 200);
+}
+a[href^="https://"] {
     color: rgb(225, 225, 225);
 }
 .td01 {
