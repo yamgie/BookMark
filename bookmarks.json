@@ -11,6 +11,7 @@
           { "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa" },
         ]
       }
+      "cell":{
         {"cellColor":"#ddd", "title": "callTitle"},
         "entries":[
           { "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa" },
@@ -32,6 +33,7 @@
           { "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa" },
         ]
       }
+      "cell":{
         {"cellColor":"#ddd", "title": "callTitle"},
         "entries":[
           { "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa" },
