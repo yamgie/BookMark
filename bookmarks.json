@@ -2,51 +2,53 @@
   "bookmarks":"Yamgi's Bookmarks.",
   "rows":[
     {
-      "row":1,
       "cols":[
-        "cell":{
-          {"cellClass":"ddd", "title": "callTitle"},
+        {
+          "cellClass":"ddd", "title": "callTitle",
           "entries":[
-            { "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa" },
-            { "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa" },
-            { "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa", "break":"break" },
-            { "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa" },
-            { "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa" },
+            { "entryClass": "entry", "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa"},
+            { "entryClass": "entry", "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa"},
+            { "entryClass": "entry", "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa"},
+            { "entryClass": "break"},
+            { "entryClass": "entry", "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa"},
+            { "entryClass": "entry", "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa"}
           ]
-        }
-        "cell":{
-          {"cellClass":"ddd", "title": "callTitle"},
+        },
+        {
+          "cellClass":"ddd", "title": "callTitle",
           "entries":[
-            { "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa" },
-            { "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa" },
-            { "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa", "break":"break" },
-            { "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa" },
-            { "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa" },
+            { "entryClass": "entry", "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa"},
+            { "entryClass": "entry", "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa"},
+            { "entryClass": "entry", "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa"},
+            { "entryClass": "break"},
+            { "entryClass": "entry", "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa"},
+            { "entryClass": "entry", "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa"}
           ]
         }
       ]
-    }
+    },
     {
-      "row":2,
       "cols":[
-        "cell":{
-          {"cellClass":"ddd", "title": "callTitle"},
+        {
+          "cellClass":"ddd", "title": "callTitle",
           "entries":[
-            { "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa" },
-            { "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa" },
-            { "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa", "break":"break" },
-            { "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa" },
-            { "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa" },
+            { "entryClass": "entry", "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa"},
+            { "entryClass": "entry", "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa"},
+            { "entryClass": "entry", "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa"},
+            { "entryClass": "break"},
+            { "entryClass": "entry", "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa"},
+            { "entryClass": "entry", "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa"}
           ]
-        }
-        "cell":{
-          {"cellClass":"ddd", "title": "callTitle"},
+        },
+        {
+          "cellClass":"ddd", "title": "callTitle",
           "entries":[
-            { "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa" },
-            { "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa" },
-            { "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa", "break":"break" },
-            { "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa" },
-            { "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa" },
+            { "entryClass": "entry", "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa"},
+            { "entryClass": "entry", "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa"},
+            { "entryClass": "entry", "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa"},
+            { "entryClass": "break"},
+            { "entryClass": "entry", "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa"},
+            { "entryClass": "entry", "title":"aaaaa", "URL":"https://www.aaa.com/", "display":"aa"}
           ]
         }
       ]
